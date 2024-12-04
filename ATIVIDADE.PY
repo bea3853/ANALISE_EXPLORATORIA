@@ -1,6 +1,6 @@
-# O conjunto de dados contém 28 colunas e inclui informações como Passengerid, Age, Fare, Sex, sibsp (número de irmãos/cônjuges a bordo), Pclass, Embarked e a coluna-alvo possivelmente 2urvived (indicando sobrevivência). Outras colunas parecem conter valores zeros repetidos, que podem ser descartados.
-
-# Agora, vamos realizar as seguintes etapas de análise:
+# O conjunto de dados contém 28 colunas e inclui informações como Passengerid, Age, Fare, Sex, sibsp 
+(número de irmãos/cônjuges a bordo), Pclass, Embarked e a coluna-alvo possivelmente 2urvived (indicando sobrevivência). 
+Outras colunas parecem conter valores zeros repetidos, que podem ser descartados.
 
 # Análise básica de dados:
 
